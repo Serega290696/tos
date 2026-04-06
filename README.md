@@ -36,7 +36,7 @@ These terms are governed by and construed in accordance with the laws of **Polan
 
 ## 10. Contact Us
 If you have any questions or suggestions about these Terms of Service, do not hesitate to contact us at:
-**beltser.sergey@gmail.com**
+**horizons.app.dev@gmail.com**
 
 ---
 *© 2026 Beltser Serhii. All rights reserved.*
