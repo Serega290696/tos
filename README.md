@@ -1,42 +1,45 @@
 # Terms of Service
-
-**Effective Date:** April 6, 2026
-
-Welcome to **Horizons: Life Intent**. By using our mobile application, you agree to these Terms of Service. Please read them carefully.
+Effective Date: April 6, 2026
 
 ## 1. Acceptance of Terms
-By downloading or using the **Horizons: Life Intent** application, these terms will automatically apply to you. If you do not agree to these terms, do not use the application.
+By downloading or using **Horizons: Life Intent**, you enter into a binding legal agreement. If you do not agree, cease use immediately.
 
 ## 2. Description of Service
-Horizons: Life Intent is a productivity tool designed for goal tracking and intent management. The application operates strictly offline, and all data is stored locally on the user's device.
+Productivity tool for goal tracking. **Strictly offline operation**. Data is stored locally on the device's filesystem. No cloud synchronization, backup, or remote storage provided.
 
-## 3. User Privacy and Data
-Your privacy is our priority. As described in our **Privacy Policy**, we do not collect, store, or share your personal data on any external servers. You are solely responsible for the security of your device and the data stored within the application.
+## 3. Age Requirements
+Minimum age: 13 years (or 16 in specific EU jurisdictions per GDPR). By using the app, you confirm you meet these requirements.
 
-## 4. Intellectual Property
-The application, including its original source code, design, and UI/UX elements, is the intellectual property of **Beltser Serhii**. You are granted a personal, non-exclusive, non-transferable license to use the app for personal, non-commercial purposes.
+## 4. Data and Privacy
+* **Local Storage:** All user-entered data remains on the device.
+* **Privacy:** The developer does not collect, access, or sell personal data.
+* **Data Loss:** Users are solely responsible for device security and manual backups. Developer is not liable for data loss due to hardware failure, OS updates, or app deletion.
+* **Third-Party Services:** Google Play/App Store may collect telemetry/crash reports per their own Privacy Policies.
 
-## 5. Restrictions
-You agree not to:
-* Attempt to decompile or reverse engineer the software.
-* Use the application for any illegal or unauthorized purposes.
-* Copy or distribute any part of the application without prior written consent.
+## 5. Intellectual Property
+* **Software:** App, code, and UI are owned by **Beltser Serhii**. Licensed, not sold. License is personal, non-exclusive, and non-transferable.
+* **User Content:** You retain ownership of any data entered. Developer claims no rights to your goals or personal notes.
 
-## 6. Disclaimer of Warranties
-The application is provided **"AS IS"** and **"AS AVAILABLE"** without warranties of any kind, either express or implied. We do not guarantee that the application will be bug-free, error-free, or that it will meet your specific requirements for time management or productivity.
+## 6. Prohibited Actions
+You shall not:
+* Reverse engineer, decompile, or attempt to extract source code.
+* Use the app for illegal activities under Polish or EU law.
+* Redistribute or clone the app under a different name.
 
-## 7. Limitation of Liability
-To the maximum extent permitted by law (including applicable laws in **Poland and the EU**), **Beltser Serhii** shall not be liable for any indirect, incidental, special, or consequential damages, including but not limited to loss of data, loss of profits, or personal injury resulting from the use or inability to use the application.
+## 7. Modifications to Terms
+The developer reserves the right to update these Terms. Continued use after changes constitutes acceptance. Check the "Effective Date" for updates.
 
-## 8. Changes to These Terms
-We may update our Terms of Service from time to time. You are advised to review this page periodically for any changes. Changes are effective immediately after they are posted on this page.
+## 8. Disclaimer of Warranties
+Provided **"AS IS"**. No guarantees regarding uptime, bug-free operation, or specific results from using the tool.
 
-## 9. Governing Law
-These terms are governed by and construed in accordance with the laws of **Poland**.
+## 9. Limitation of Liability
+To the extent permitted by **Polish law**, Beltser Serhii shall not be liable for any indirect or consequential damages, including loss of data or profit. Total liability is limited to the amount paid for the app (if any).
 
-## 10. Contact Us
-If you have any questions or suggestions about these Terms of Service, do not hesitate to contact us at:
-**horizons.app.dev@gmail.com**
+## 10. Governing Law and Jurisdiction
+Governed by the laws of **Poland**. Any disputes shall be settled in the competent courts of **Warsaw, Poland**.
+
+## 11. Contact
+Support/Inquiries: horizons.app.dev@gmail.com
 
 ---
-*© 2026 Beltser Serhii. All rights reserved.*
+© 2026 Beltser Serhii. All rights reserved.
