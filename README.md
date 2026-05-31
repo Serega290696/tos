@@ -28,11 +28,12 @@ Minimum age: 13 years (or 16 in specific EU jurisdictions per Art. 8 GDPR). By u
 
 ## 6. Prohibited Actions
 You shall not:
+* reverse engineer, decompile, disassemble, or otherwise attempt to extract the source code of the compiled application;
 * redistribute the compiled application as if it were your own, including under a different name or branding;
 * use the **Horizons: Life Intent** name, logo, or other trademarks in a way that could mislead users about the origin of your product;
 * use the app for illegal activities under Polish or EU law.
 
-If the source code is released under an open-source licence, contributing to, modifying, or running modified builds of that source for your own use is governed by that licence — not by this section.
+As of the effective date above, the application's source code is not publicly available. If the source code is later released under an open-source licence, contributing to, modifying, or running modified builds of that source for your own use is governed by that licence — not by this section.
 
 ## 7. Purchases and Refunds
 Any purchases (the app and / or any paid features) are processed by the app store (Google Play), not by the developer directly. Pricing, billing, and **refunds are handled by the store under its own policies**; please refer to Google Play's refund policy. The developer does not separately process payments or issue refunds.
@@ -85,11 +86,12 @@ Support / Inquiries: **horizons.app.dev@gmail.com**
 
 ## 6. Заборонені дії
 Ви не маєте права:
+* здійснювати реверс-інжиніринг, декомпіляцію, дизасемблювання чи в інший спосіб намагатися отримати сирцевий код зі скомпільованого застосунку;
 * поширювати скомпільований застосунок так, ніби він ваш, у тому числі під іншою назвою чи брендингом;
 * використовувати назву **Horizons: Life Intent**, логотип чи інші торгові марки у спосіб, який може ввести користувачів в оману щодо походження вашого продукту;
 * використовувати застосунок для незаконної діяльності за польським чи правом ЄС.
 
-Якщо сирцевий код опубліковано за відкритою ліцензією, внесення змін, модифікація чи запуск модифікованих збірок цього коду для власного користування регулюються тією ліцензією, а не цим розділом.
+Станом на дату набрання чинності, вказану вище, сирцевий код застосунку не є публічно доступним. Якщо сирцевий код згодом опублікують за відкритою ліцензією, внесення змін, модифікація чи запуск модифікованих збірок цього коду для власного користування регулюватимуться тією ліцензією, а не цим розділом.
 
 ## 7. Покупки та повернення коштів
 Будь-які покупки (застосунок та/або будь-які платні функції) обробляються магазином застосунків (Google Play), а не розробником безпосередньо. Ціни, виставлення рахунків та **повернення коштів обробляються магазином за його власною політикою**; зверніться до політики повернення коштів Google Play. Розробник не обробляє платежі та не повертає кошти окремо.
@@ -142,11 +144,12 @@ Minimalny wiek: 13 lat (lub 16 w określonych jurysdykcjach UE zgodnie z art. 8 
 
 ## 6. Zabronione działania
 Nie wolno Ci:
+* dokonywać inżynierii wstecznej, dekompilować, dezasemblować ani w inny sposób próbować wyodrębniać kodu źródłowego ze skompilowanej aplikacji;
 * dystrybuować skompilowanej aplikacji tak, jakby była Twoja, w tym pod inną nazwą lub marką;
 * używać nazwy **Horizons: Life Intent**, logo lub innych znaków towarowych w sposób mogący wprowadzić użytkowników w błąd co do pochodzenia Twojego produktu;
 * używać aplikacji do działań niezgodnych z prawem polskim lub unijnym.
 
-Jeśli kod źródłowy zostanie wydany na podstawie licencji open-source, wnoszenie wkładu, modyfikowanie lub uruchamianie zmodyfikowanych kompilacji tego kodu do własnego użytku jest regulowane tą licencją — nie niniejszą sekcją.
+Według stanu na powyższą datę wejścia w życie kod źródłowy aplikacji nie jest publicznie dostępny. Jeśli kod źródłowy zostanie później wydany na podstawie licencji open-source, wnoszenie wkładu, modyfikowanie lub uruchamianie zmodyfikowanych kompilacji tego kodu do własnego użytku będzie regulowane tą licencją — nie niniejszą sekcją.
 
 ## 7. Zakupy i zwroty
 Wszelkie zakupy (aplikacji i / lub funkcji płatnych) są przetwarzane przez sklep z aplikacjami (Google Play), nie bezpośrednio przez dewelopera. Ceny, rozliczenia i **zwroty są obsługiwane przez sklep zgodnie z jego własną polityką**; zapoznaj się z polityką zwrotów Google Play. Deweloper nie przetwarza płatności ani nie wydaje zwrotów odrębnie.
